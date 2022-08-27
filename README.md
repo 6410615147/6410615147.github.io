@@ -1,9 +1,11 @@
-# Introduce Myself
+# __Introduce Myself__
 
-![image](..\6410615147.github.io\รูปนศ.jpg)
+![image](รูปนศ.jpg)
 
 Name: Supapan Ngorsakun
+
 Nickname: Anny
+
 Birthday: 08/02/2003
 
 ### My favorite
@@ -13,7 +15,10 @@ Birthday: 08/02/2003
 
 ### Contacts
 > Phone NO.: 0887576930
+
 > Email: supapan.ngo@dome.tu.ac.th
+
 > Site: <https://6410615147.github.io>
 
-###### For assignment1 of class CN331
+
+##### *For assignment1 of class CN331*
