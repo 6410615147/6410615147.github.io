@@ -1,6 +1,6 @@
 # __Introduce Myself__
 
-![image](รูปนศ.jpg =300x376)
+![<img src="รูปนศ.jpg" alt="image" width="300" height="376">](รูปนศ.jpg)
 
 Name: Supapan Ngorsakun
 
