@@ -1,6 +1,6 @@
 # __Introduce Myself__
 
-![image](รูปนศ.jpg)
+![image](รูปนศ.jpg =300x376)
 
 Name: Supapan Ngorsakun
 
